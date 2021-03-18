@@ -1,0 +1,31 @@
+<ion-header>
+    <ion-toolbar color="primary">
+        <ion-title>Novo Cliente</ion-title>
+    </ion-toolbar>
+
+</ion-header>
+<ion-fab vertical="top" horizontal="end" slot="fixed">
+    <ion-fab-button color="dark" (click)="fecharModal()">
+        <ion-icon name="arrow-down-circle"></ion-icon>
+    </ion-fab-button>
+</ion-fab>
+
+<ion-content>
+    <form #formulario="ngForm" (ngSubmit)="enviando(formulario)">
+        <ion-item>
+            <ion-label position="floating">Nome</ion-label>
+            <ion-input [(ngModel)]="dados.nome" name="nome"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label position="floating">Cidade</ion-label>
+            <ion-input [(ngModel)]="dados.cidade" name="cidade"></ion-input>
+        </ion-item>
+        <ion-item>
+            <ion-label position="floating">E-mail</ion-label>
+            <ion-input [(ngModel)]="dados.email" name="email"></ion-input>
+        </ion-item>
+
+        <ion-button fill="outline" expand="block" type="submit">Cadastrar</ion-button>
+    </form>
+
+</ion-content>
