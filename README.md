@@ -1,9 +1,9 @@
 # CRUD_EM_IONIC
-Uma aplicação basica de CRUD desenvolvida em IONIC e angular que se alimenta de uma API feita com objetivos academicos
+Uma aplicação basica de CRUD desenvolvida em IONIC e Angular que se alimenta de uma API feita com objetivos academicos
 
 <h3>API Desenvolvida em PHP e Banco de Dados Mysql</h3> 
 
-Aplicação Desenvolvida em um FrameWork Multiplataforma 
+Aplicação Desenvolvida em um FrameWork Multiplataforma (IONIC) 
 
 O codigo pode ser compilado para IOS e Android
 
