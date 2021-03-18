@@ -16,7 +16,7 @@ Quando acessada clientes/api/id_cliente retorna apenas os dados do cliente espec
 <h3>Telas do Aplicativo</h3>
 <img src ="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/Tela_inicio.jpeg"></img>
 <img src="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/Tela_cadastro.jpeg"></img>
-
+<img src="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/tela_slide.jpeg"></img>
 
 
 
