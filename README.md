@@ -10,10 +10,13 @@ O codigo pode ser compilado para IOS e Android
 <h3>Funcionamento da API</h3>
 Quando apenas acessada em clientes/api retorna todos os dados
 Quando acessada clientes/api/id_cliente retorna apenas os dados do cliente especifico 
-
+<img src="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/API1.jpeg">
+<img src="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/API2.jpeg">
 
 <h3>Telas do Aplicativo</h3>
-<img src =""></img>
+<img src ="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/Tela_inicio.jpeg"></img>
+<img src="https://raw.githubusercontent.com/lucasAlcp/CRUD_EM_IONIC/main/crud_ionic_images/Tela_cadastro.jpeg"></img>
+
 
 
 
